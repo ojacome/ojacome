@@ -1,15 +1,58 @@
-# 👋 Hi, I'm Jesús Jácome
+# 👋 Hola, soy Jesús Jácome Baque
 
-I'm a backend developer with 5+ years of experience in Go, Node.js, and Java. I've worked on scalable systems, microservices, and cloud-based solutions.
+📍 Guayaquil, Ecuador  
+📧 olmedo.bdp@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aquí)
 
-## 🚀 About Me
-- 🔭 Currently working on serverless and event-driven architectures
-- 💼 Experienced in AWS, MongoDB, PostgreSQL, and Kafka
-- 💬 Ask me about backend development, system design, or distributed systems
+---
 
-## 📫 Contact
-- 📧 jesusjacome@example.com
-- 🌐 [My LinkedIn](https://www.linkedin.com/in/jesusjacome)
+Soy desarrollador de software enfocado en crear soluciones **escalables**, **mantenibles** y **seguras**. He participado en proyectos de alto impacto en sectores como **ecommerce**, **fintech**, **seguros** y **programas de fidelización**, aportando en el diseño y desarrollo de funcionalidades clave, así como en la mejora y mantenimiento de sistemas críticos.
 
-## 📄 CV
-If you're interested in my experience, feel free to check my [curriculum](https://link-to-your-cv.com) (PDF).
+---
+
+## 🛠️ Stack de tecnologías y herramientas
+
+### 👨‍💻 Lenguajes
+- Go
+- Java (Spring Boot / Webflux)
+- JavaScript / TypeScript (Node.js, NestJS)
+- Python
+
+### 🗄️ Bases de datos
+- PostgreSQL
+- MySQL
+- MongoDB
+- DynamoDB
+
+### ☁️ Cloud & DevOps
+- AWS
+- Azure
+- Serverless Framework
+- Docker
+- Kubernetes
+
+### 🔁 Mensajería y Cache
+- Kafka
+- Redis
+
+### 🧪 Testing
+- Pruebas unitarias
+- TDD
+
+### 📋 Metodologías
+- Scrum
+- Cascada
+- Git
+
+---
+
+## 📫 ¿Hablamos?
+
+Si deseas conocer más sobre mi experiencia o colaborar en proyectos, no dudes en contactarme:
+
+📧 olmedo.bdp@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aquí)
+
+---
+
+_Gracias por visitar mi perfil._

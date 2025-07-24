@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Jesús Jácome
 
-<!--
-**ojacome/ojacome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer with 5+ years of experience in Go, Node.js, and Java. I've worked on scalable systems, microservices, and cloud-based solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on serverless and event-driven architectures
+- 💼 Experienced in AWS, MongoDB, PostgreSQL, and Kafka
+- 💬 Ask me about backend development, system design, or distributed systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 jesusjacome@example.com
+- 🌐 [My LinkedIn](https://www.linkedin.com/in/jesusjacome)
+
+## 📄 CV
+If you're interested in my experience, feel free to check my [curriculum](https://link-to-your-cv.com) (PDF).
